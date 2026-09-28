@@ -1,5 +1,5 @@
 /* 독해수업 PWA 서비스 워커 — 파일을 새로 올릴 때 VERSION 숫자를 하나 올리면 설치된 앱이 새 내용으로 갱신됩니다. */
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = 'reading-class-' + VERSION;
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 
